@@ -1,4 +1,4 @@
-[![MasterHead](https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80)]
+![MasterHead](https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80 height="50%") 
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Chema</h1>
