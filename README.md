@@ -8,8 +8,8 @@
 <p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tech-spy.co.uk%2F2013%2F04%2Fhow-to-generate-random-numbers-in-python%2F&psig=AOvVaw3CDAx-E3UV5qwnfjn99QJ9&ust=1717099759822000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjN3prVs4YDFQAAAAAdAAAAABAH" alt="7arise" /> </p>
 
 - 🔭 I’m currently working on **my Web development skills**
-- 
-- 🌱 I’m currently learning **HTML5, CSS3, Bootstrap4, JavaScript, SQL, and Python.**
+  
+- 🌱 Learning **HTML5, CSS3, Bootstrap4, JavaScript, SQL, Python...**
 
 - 📫 How to reach me **jmrodriguezg00@gmail.com**
 
