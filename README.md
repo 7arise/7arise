@@ -44,8 +44,8 @@ Currently working on new full-stack projects and exploring the world of **Artifi
 ---
 
 ### 📊 GitHub Stats
-![Chema's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
+![Chema's GitHub Stats](https://github-readme-stats.vercel.app/api?username=7arise&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7arise&layout=compact&theme=tokyonight)
 
 ---
 
