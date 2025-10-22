@@ -50,7 +50,7 @@ Currently working on new full-stack projects and exploring the world of **Artifi
 ---
 
 ### 📫 Connect With Me
-🌍 <a href="https://linkedin.com/in/61wiind" target="_blank">LinkedIn</a>  
+🌍 <a href="https://linkedin.com/in/61chema" target="_blank">LinkedIn</a>  
 💼 <a href="https://tusitio.com" target="_blank">Portfolio (coming soon)</a>  
 ✉️ <a href="jmrodriguezg00@gmail.com" target="_blank">Email</a>
 
