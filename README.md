@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 ¡Hola! / Hello!
 
-<!--
-**7arise/7arise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **Chema Rodríguez**, desarrollador web en formación 🚀  
+I'm **Chema Rodríguez**, a web developer in training 🚀  
 
-Here are some ideas to get you started:
+💡 Enfocado en crear sitios rápidos, limpios y modernos.  
+💡 Focused on building fast, clean, and modern web experiences.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Tecnologías / Technologies:
+HTML | CSS | JavaScript | Bootstrap | SQL | Python (learning)
+
+🌱 Actualmente aprendiendo / Currently learning: React & Python  
+📍 Rubí (Barcelona)  
+📫 [LinkedIn]([https://linkedin.com/in/TU-USUARIO](https://www.linkedin.com/in/61chema/))
